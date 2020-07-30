@@ -1,0 +1,7 @@
+ctf{local_fake_flag}
+
+--------------- Pwn - Super Secure Pseudorandom Number Generator -------------------
+ctf{sup3r_s3cur3_prng_453f75a523ae3c}
+
+--------------- Pwn - Strings ----------------
+ctf{3xp1oting_form4t_strings_is_ez_5}
